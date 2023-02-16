@@ -25,4 +25,4 @@ Refernce : https://github.com/akimach/EsotericTensorFlow/blob/master/binary_sear
 
 SOLUTION 
 
-Colab Link - 
+Colab Link - https://colab.research.google.com/drive/1dg7BqeWaQOvcXmDxhvmJf17nbfxqjCEb?authuser=1#scrollTo=3avUMv1VmFVt
