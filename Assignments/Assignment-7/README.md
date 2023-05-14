@@ -64,4 +64,4 @@ Hint : https://github.com/ageron/handson-ml3/blob/main/14_deep_computer_vision_w
 
 SOLUTION
 
-Google Colab Link - https://colab.research.google.com/drive/1BHBstTTSc7Waz-nxL3V_2hI_M8U5yCnC?usp=sharing
+Google Colab Link - https://colab.research.google.com/drive/1UoGA8kGGyWTFl4DrwSkU0EMPePsU6LMo?usp=sharing
