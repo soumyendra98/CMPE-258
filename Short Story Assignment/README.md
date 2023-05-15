@@ -6,4 +6,4 @@ Medium Article - https://medium.com/@shrivastavasoumyendra/extracting-training-d
 
 PPT - https://docs.google.com/presentation/d/1HU_PpLiUtxtcKVpe_i9NTsM1HUQ0Qul0hjp8KimSB9c/edit?usp=sharing
 
-Video - 
+Video - https://drive.google.com/file/d/1fmHoaP51Q_LS49-1TwXgjq9lSbimjtge/view?usp=share_link
